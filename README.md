@@ -1,6 +1,8 @@
 # ppcor
 Partial and Semi-Partial (Part) Correlation Use pcor And spcor (ppcor) With (In) R Software
 
+https://www.youtube.com/watch?v=CW6bxl4XQX4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
